@@ -1,0 +1,1 @@
+<xdb><password xmlns='jabber:iq:auth' xdbns='jabber:iq:auth'>tyah</password><query xmlns='jabber:iq:register' xdbns='jabber:iq:register'><username>tyah</username><x xmlns='jabber:x:delay' stamp='20050405T17:05:32'>registered</x></query><query xmlns='jabber:iq:last' last='0000000000' xdbns='jabber:iq:last'>Disconnected</query></xdb>
